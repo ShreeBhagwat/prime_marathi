@@ -1,0 +1,49 @@
+name: prime_marathi
+description: Prime Marathi News
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.3
+  modal_progress_hud:
+  rflutter_alert:
+  cached_network_image:
+  progress_dialog:
+  video_player:
+  auto_size_text:
+  chewie:
+  screen:
+  circular_profile_avatar:
+  shared_preferences:
+  flutter_html:
+  carousel_slider: ^2.2.1
+#  onesignal_flutter:
+#  settings_ui:
+#  package_info:
+#  url_launcher:
+#  device_info:
+  connectivity:
+  dots_indicator: ^1.2.0
+  youtube_player_flutter: ^7.0.0+7
+  flutter_shimmer: ^1.3.0
+  inview_notifier_list: ^1.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - images/
+

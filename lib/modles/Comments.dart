@@ -1,0 +1,10 @@
+//pagination_limit: 50,
+//total_news: 1,
+//comment_id: 30,
+//news_id: 1413,
+//user_id: 30,
+//user_name: b,
+//user_email: b@b.b,
+//user_profile: images/users/,
+//comment_text: nice,
+//comment_on: 22 Aug
